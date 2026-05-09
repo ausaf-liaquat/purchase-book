@@ -1,0 +1,20 @@
+[
+    {
+        "item_name": "Sugar",
+        "brand_name": "ABC",
+        "qty": 10,
+        "price": 100
+    },
+    {
+        "item_name": "Rice",
+        "brand_name": "XYZ",
+        "qty": 5,
+        "price": 250
+    },
+    {
+        "item_name": "Milk",
+        "brand_name": "Fresh",
+        "qty": 20,
+        "price": 80
+    }
+]
